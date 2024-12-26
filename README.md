@@ -1,5 +1,4 @@
 # DBMS-
-Database Management System 
 Overview
 This project focuses on SQL database management and administration, structured into three parts. It builds on an Employee Database to tackle real-world challenges, enhancing database functionality, usability, and stability. Tasks included resolving supervisor-identified data issues, automating processes, and implementing advanced SQL features such as user-defined functions and stored procedures.
 
