@@ -1,8 +1,8 @@
 # DBMS-
-Overview:- 
+**Overview**
 This project focuses on SQL database management and administration, structured into three parts. It builds on an Employee Database to tackle real-world challenges, enhancing database functionality, usability, and stability. Tasks included resolving supervisor-identified data issues, automating processes, and implementing advanced SQL features such as user-defined functions and stored procedures.
 
-Project 1: Orders Database and SQL Queries
+**Project 1: Orders Database and SQL Queries**
 This phase involved designing and querying an eCommerce orders database using MS SQL Server Management Studio. The database comprised tables for customer orders, product details, and shipment methods.
 
 Key Deliverables:
@@ -17,7 +17,7 @@ Complex SQL Querying (SELECT, JOIN, WHERE, GROUP BY, Subqueries)
 Schema Design and Data Validation
 Referential Integrity Enforcement
 
-Project 2: Employee Database and Management
+**Project 2: Employee Database and Management**
 This part centered on creating and managing a human resources database for a growing company, incorporating data modeling and SQL scripting.
 
 Key Tasks:
@@ -33,7 +33,7 @@ ERD Design
 Primary Key, Foreign Key, and Constraints Implementation
 Maintenance and Data Integrity Testing
 
-Project 3: SQL Database Administration
+**Project 3: SQL Database Administration**
 This phase focused on refining and optimizing the database for better usability and performance.
 
 Key Solutions:
@@ -59,7 +59,7 @@ Writing and Testing Functions, Views, and Stored Procedures
 Database Security, Integrity, and Maintenance
 Concurrency Management
 
-Technologies Used
+**Technologies Used**
 SQL Server Management Studio
 Microsoft Visio for Data Modeling
 SQL for Database Operations and Maintenance
