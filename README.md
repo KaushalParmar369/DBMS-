@@ -12,10 +12,9 @@ SQL Query Development: Constructed 20 advanced SQL queries, including equijoins,
 Referential Integrity: Ensured proper relationships between tables using primary and foreign keys.
 Results: Captured and formatted query outputs for clear presentation.
 Skills Applied:
-
-Complex SQL Querying (SELECT, JOIN, WHERE, GROUP BY, Subqueries)
-Schema Design and Data Validation
-Referential Integrity Enforcement
+**Complex SQL Querying (SELECT, JOIN, WHERE, GROUP BY, Subqueries)**
+**Schema Design and Data Validation**
+**Referential Integrity Enforcement**
 
 **Project 2: Employee Database and Management**
 This part centered on creating and managing a human resources database for a growing company, incorporating data modeling and SQL scripting.
@@ -27,11 +26,10 @@ Database Management: Wrote SQL scripts for table creation, data insertion, updat
 Advanced Queries: Built recursive queries to display manager-subordinate hierarchies and views to identify missing employee emergency contacts.
 Testing: Verified database functionality and ensured constraints were properly implemented.
 Skills Applied:
-
-Table Creation and SQL Scripting
-ERD Design
+**Table Creation and SQL Scripting**
+**ERD Design
 Primary Key, Foreign Key, and Constraints Implementation
-Maintenance and Data Integrity Testing
+Maintenance and Data Integrity Testing**
 
 **Project 3: SQL Database Administration**
 This phase focused on refining and optimizing the database for better usability and performance.
@@ -53,13 +51,12 @@ Performance Optimization:
 Automated data cleansing processes with stored procedures to reduce manual intervention.
 Addressed concurrency issues to prevent dirty reads and ensure smooth database operation.
 Skills Applied:
-
-Advanced SQL Administration and Optimization
+**Advanced SQL Administration and Optimization
 Writing and Testing Functions, Views, and Stored Procedures
 Database Security, Integrity, and Maintenance
-Concurrency Management
+Concurrency Management**
 
 **Technologies Used**
-SQL Server Management Studio
+**SQL Server Management Studio
 Microsoft Visio for Data Modeling
-SQL for Database Operations and Maintenance
+SQL for Database Operations and Maintenance**
