@@ -11,6 +11,7 @@ Database Schema Design: Developed and populated the Orders and Products database
 SQL Query Development: Constructed 20 advanced SQL queries, including equijoins, subqueries, and aggregations, to extract meaningful data like order totals and shipment details.
 Referential Integrity: Ensured proper relationships between tables using primary and foreign keys.
 Results: Captured and formatted query outputs for clear presentation.
+
 Skills Applied:
 
 **Complex SQL Querying (SELECT, JOIN, WHERE, GROUP BY, Subqueries)**
@@ -26,6 +27,7 @@ Data Modeling: Designed an ERD using crow’s foot notation to map relationships
 Database Management: Wrote SQL scripts for table creation, data insertion, updates, and cleanup.
 Advanced Queries: Built recursive queries to display manager-subordinate hierarchies and views to identify missing employee emergency contacts.
 Testing: Verified database functionality and ensured constraints were properly implemented.
+
 Skills Applied:
 
 **Table Creation and SQL Scripting**
@@ -52,6 +54,7 @@ Performance Optimization:
 
 Automated data cleansing processes with stored procedures to reduce manual intervention.
 Addressed concurrency issues to prevent dirty reads and ensure smooth database operation.
+
 Skills Applied:
 
 **Advanced SQL Administration and Optimization
