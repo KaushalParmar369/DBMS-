@@ -63,6 +63,6 @@ Database Security, Integrity, and Maintenance
 Concurrency Management**
 
 **Technologies Used**
-**SQL Server Management Studio
-Microsoft Visio for Data Modeling
-SQL for Database Operations and Maintenance**
+**SQL Server Management Studio**
+**Microsoft Visio for Data Modeling**
+**SQL for Database Operations and Maintenance**
